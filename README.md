@@ -2,8 +2,6 @@
 
 A nice, declarative way of managing [JSON API](http://jsonapi.org/) calls with Redux.
 
-![downloads](https://img.shields.io/npm/dm/redux-bees.svg)
-
 ## Installation
 
 ```sh
