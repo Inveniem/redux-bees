@@ -1,10 +1,16 @@
 {
-  "presets": ["es2015", "react"],
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
   "plugins": [
-    "transform-object-rest-spread",
-    "transform-decorators-legacy",
-    ["module-alias", [
-      { "src": "./src", "expose": "redux-bees" },
-    ]]
-  ],
+    [
+      "module-resolver", {
+        "root": ["./src"],
+        "redux-bees": "redux-bees"
+      }
+    ],
+    [
+      "@babel/plugin-proposal-decorators", {
+        "legacy": true
+      }
+    ]
+  ]
 }
