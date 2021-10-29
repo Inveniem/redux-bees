@@ -1,5 +1,5 @@
 {
-  "name": "redux-bees",
+  "name": "@inveniem/redux-bees",
   "version": "0.1.12",
   "description": "A nice, declarative way of managing JSON API calls with Redux",
   "main": "lib/index.js",
