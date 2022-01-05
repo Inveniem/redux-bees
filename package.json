@@ -18,6 +18,12 @@
     "John Karahalis <john.karahalis@inveniem.com>"
   ],
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Inveniem/redux-bees.git"
+  },
+  "bugs": "https://github.com/Inveniem/redux-bees/issues",
+  "homepage": "https://github.com/Inveniem/redux-bees#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",
