@@ -6,6 +6,10 @@ This is a fork of the [main redux-bees
 repo](https://github.com/cantierecreativo/redux-bees). Dependencies have been
 updated to improve security, but no functionality has been modified.
 
+<a href="https://npmjs.com/package/@inveniem/redux-bees">
+  <img src="https://img.shields.io/npm/v/@inveniem/redux-bees.svg" alt="npm package">
+</a>
+
 ## Installation
 
 ```sh
