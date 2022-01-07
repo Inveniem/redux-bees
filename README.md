@@ -2,6 +2,10 @@
 
 A nice, declarative way of managing [JSON API](http://jsonapi.org/) calls with Redux.
 
+This is a fork of the [main redux-bees
+repo](https://github.com/cantierecreativo/redux-bees). Dependencies have been
+updated to improve security, but no functionality has been modified.
+
 ## Installation
 
 ```sh
